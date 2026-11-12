@@ -200,4 +200,4 @@ This repository serves as the official landing page for Hexologic. The software 
 **Get the most recent version of Hexologic today!**
 
 ---
-**Last updated:** 2026-11-12 08:53:24 UTC
+**Last updated:** 2026-11-12 17:10:15 UTC
